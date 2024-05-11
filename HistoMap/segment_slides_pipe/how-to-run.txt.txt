@@ -1,0 +1,6 @@
+1. Make conda environment called histopython2 and make sure stardist is there 
+2. Make folder that is named the same as slide
+3. Upload slide to folder 
+4. Within parallel-job.sh and histomap-job.sh change the argument in each python call to be the name of the slide
+5. Run "sbatch histomap-job.sh"
+6. Wait ~24 hours.
