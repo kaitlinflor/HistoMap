@@ -1,0 +1,44 @@
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda deactivate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+no change     /gpfs/loomis/apps/avx/software/miniconda/23.1.0/condabin/conda
+no change     /gpfs/loomis/apps/avx/software/miniconda/23.1.0/bin/conda
+no change     /gpfs/loomis/apps/avx/software/miniconda/23.1.0/bin/conda-env
+no change     /gpfs/loomis/apps/avx/software/miniconda/23.1.0/bin/activate
+no change     /gpfs/loomis/apps/avx/software/miniconda/23.1.0/bin/deactivate
+no change     /gpfs/loomis/apps/avx/software/miniconda/23.1.0/etc/profile.d/conda.sh
+no change     /gpfs/loomis/apps/avx/software/miniconda/23.1.0/etc/fish/conf.d/conda.fish
+no change     /gpfs/loomis/apps/avx/software/miniconda/23.1.0/shell/condabin/Conda.psm1
+no change     /gpfs/loomis/apps/avx/software/miniconda/23.1.0/shell/condabin/conda-hook.ps1
+no change     /gpfs/loomis/apps/avx/software/miniconda/23.1.0/lib/python3.10/site-packages/xontrib/conda.xsh
+no change     /gpfs/loomis/apps/avx/software/miniconda/23.1.0/etc/profile.d/conda.csh
+no change     /home/kmf69/.bashrc
+No action taken.
+--------------- commencer ---------------
+129108
+DID PCA
+DID UMAP ON 1000 and 0
+PLOTTING
+PICKLING UMAP MODEL
+/home/kmf69/umap_analysis/clustering_clusters/pickled_embeddings/umap_pickle_transform_n_1000.sav
+/home/kmf69/umap_analysis/clustering_clusters/pickled_embeddings/umap_pickle_fit_n_1000.sav
+PICKLING PCA MODEL
+/home/kmf69/umap_analysis/clustering_clusters/pickled_embeddings/pca_pickle_transform.sav
+/home/kmf69/umap_analysis/clustering_clusters/pickled_embeddings/umap_pca_fit.sav
+----------------- fin -----------------
